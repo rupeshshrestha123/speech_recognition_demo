@@ -1,9 +1,9 @@
 # tensorflow_speech_recognition_demo
-This is the code for 'How to Make a Simple Tensorflow Speech Recognizer' by @Sirajology on Youtube
+This is the code for 'How to Make a Simple Tensorflow Speech Recognizer' as a part of Automatic speech recognition
 
 Overview
 ============
-This is the full code for 'How to Make a Simple Tensorflow Speech Recognizer' by @Sirajology on [Youtube](https://youtu.be/u9FPqkuoEJ8).
+This is the full code for 'How to Make a Simple Tensorflow Speech Recognizer'
 In this demo code we build an LSTM recurrent neural network using the TFLearn high level Tensorflow-based library to train
 on a labeled dataset of spoken digits. Then we test it on spoken digits. 
 
@@ -22,11 +22,6 @@ Run the following code in terminal. This will take a couple hours to train fully
 
 `python demo.py`
 
-
-Challenge
-===========
-
-The weekly challenge is from the last video, it's still running! Check it out [here](https://www.youtube.com/watch?v=mGYU5t8MO7s)
 
 Credits
 ===========
